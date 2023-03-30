@@ -1,7 +1,7 @@
 Cmod S7-25 XADC Demo
 ====================
 
-**Note:** This demo has been migrated to another repo. You can find instructions for working with the demo here: [Digilent Reference - Cmod S7 XADC Demo](https://digilent.com/reference/programmable-logic/cmod-s7/demos/xadc). Sources are version controlled in the [Arty-A7](https://github.com/Digilent/Cmod-S7) repo.
+**Note:** This demo has been migrated to another repo. You can find instructions for working with the demo here: [Digilent Reference - Cmod S7 XADC Demo](https://digilent.com/reference/programmable-logic/cmod-s7/demos/xadc). Sources are version controlled in the [Cmod-S7](https://github.com/Digilent/Cmod-S7) repo.
 
 Description
 -----------
